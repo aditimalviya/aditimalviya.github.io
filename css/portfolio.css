@@ -1,0 +1,52 @@
+body{
+    font-family:"Open Sans"!important;
+}
+.color-block2{
+    background-color:lightcoral;
+    font-family: Courier New, Courier, monospace;
+    height: 300px;
+    color: white;
+    font-size: 32px;
+    min-height: 300px;
+    
+}
+.color-block1{
+    background-color:crimson;
+    font-family: Courier New, Courier, monospace;
+    height: 300px;
+    color: white;
+    font-size: 32px;
+   
+}
+h1,h3,p{
+    font-family: "Open Sans";
+}
+.pushy{
+    background: #65beb4;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+
+}
+.navbar-brand{
+    width: 60px;
+    padding: 10px;
+    border: 5px solid #65beb4;
+    margin: 0; 
+
+}
+.about-me{
+    height: 500px;
+    width: 500px;
+    align-content:right;
+ 
+}
+.aditi img {
+ float: right;
+ margin-top: 50px;
+ height: auto;
+ max-width: 100%;
+}
+.fa i:hover{
+size: fa-3x;
+}
