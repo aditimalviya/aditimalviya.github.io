@@ -3,6 +3,10 @@ body img{
     width: 100%;
     
 }
+
+.navbar {
+    margin-bottom: 0;
+}
 table{
     padding: 20px;
     margin: 10px;
@@ -21,4 +25,13 @@ table{
     border: 5px solid #65beb4;
     margin: 0; 
 
+}
+
+iframe {
+    width: 100%;
+    min-height: 1084px;
+}
+
+.freebirdHeaderMast {
+    background-color: #65beb4;
 }

@@ -28,6 +28,9 @@ h1,h3,p{
     text-align: center;
 
 }
+.navbar {
+    margin-bottom: 0;
+}
 .navbar-brand{
     width: 60px;
     padding: 10px;
